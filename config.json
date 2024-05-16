@@ -10,11 +10,11 @@
     "EMAIL": "mohammadayan55505@gmail.com",
     "PASSWORD": "ayanfcal22",
     "OTPKEY": "",
-    "BOTNAME": "botnickname",
-    "PREFIX": "Bot-prefix",
+    "BOTNAME": "🔵জা্ঁতি্ঁর্ঁ ব্ঁড়্ঁ বো্ঁন্ঁ💥",
+    "PREFIX": "*",
     "ADMINBOT": [
-        "USERID1",
-        "USERID2"
+        "100058082042087",
+        "100058082042087"
     ],
     "DATABASE": {
         "sqlite": {
